@@ -1,5 +1,6 @@
 # macAppsYouShouldHave
 
+
 ## Menu bar
 1. [exelban/stats](https://github.com/exelban/stats)
 
@@ -9,9 +10,18 @@
 ## System control
 1. [Macs Fan Control](https://crystalidea.com/macs-fan-control/download)
 
-![](https://crystalidea.com/assets/images/macs-fan-control/carousel1_mac.png)
+<img src="https://crystalidea.com/assets/images/macs-fan-control/carousel1_mac.png">
 
 2. [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl)
 
-![](https://github.com/MonitorControl/MonitorControl/raw/main/.github/screenshot.png)
+<img width="60%" height="60%" src="https://github.com/MonitorControl/MonitorControl/raw/main/.github/screenshot.png" >
 
+
+## Window control
+1. [Rectangle](https://rectangleapp.com)
+
+[rxhanson/Rectangle](https://github.com/rxhanson/Rectangle)
+
+<img width="60%" height="60%" src="https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png" >
+
+<!-- <img width="" height="" src="" > -->
