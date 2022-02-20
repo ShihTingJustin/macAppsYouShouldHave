@@ -27,5 +27,27 @@
 
 <img width="60%" height="60%" src="https://user-images.githubusercontent.com/13651296/101402672-57ab5300-38d4-11eb-9e8c-6a3147d26711.png" >
 
+## Terminal
+1. [iTerm2](https://iterm2.com/index.html)
+
+### Theme
+1. [powerlevel10k](https://github.com/romkatv/powerlevel10k#pure-compatibility)
+<img width="60%" height="60%" src="https://raw.githubusercontent.com/romkatv/powerlevel10k-media/master/prompt-styles-high-contrast.png" >
+
+2. [pure](https://github.com/sindresorhus/pure)
+<img width="60%" height="60%" src="https://github.com/sindresorhus/pure/raw/main/screenshot.png" >
+
+### Package
+1. [Homebrew](https://brew.sh)
+2. [Oh My Zsh](https://ohmyz.sh)
+3. [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
+4. [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions#oh-my-zsh)
+5. [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
+6. [Fig](https://fig.io/)
+<img width="60%" height="60%" src="https://fig.io/images/slideshow/screenshots/git.png" >
+
+
+
+
 
 <!-- <img width="" height="" src="" > -->
