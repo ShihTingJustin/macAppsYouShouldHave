@@ -56,6 +56,13 @@
 ### [Mongood](https://github.com/renzholy/mongood)
 <img width="60%" height="60%" src="https://github.com/renzholy/mongood/blob/main/screenshot/stats.png?raw=true" >
  
+ 
+## MySQL GUI
+### [Sequel Pro](http://www.sequelpro.com/)
+<img width="60%" height="60%" src="http://www.sequelpro.com/images/query.png" >
+
+### [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
+<img width="60%" height="60%" src="https://mingo.io/_nuxt/img/0b60a95.png" >
 
 
 
