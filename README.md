@@ -1,5 +1,8 @@
 # macAppsYouShouldHave
 
+## Web Dev
+[Responsively App](https://github.com/responsively-org/responsively-app)
+![](https://camo.githubusercontent.com/9c692245c2ec3c3d5b4485c2cd4d266b01e6a3849620ea1363b7a61fced78e12/68747470733a2f2f726573706f6e736976656c792e6170702f6173736574732f696d672f726573706f6e736976656c792d6170702e676966)
 
 ## Menu bar
 1. [exelban/stats](https://github.com/exelban/stats)
