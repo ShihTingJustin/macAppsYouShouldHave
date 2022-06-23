@@ -51,6 +51,10 @@
 6. [Fig](https://fig.io/)
 <img width="60%" height="60%" src="https://fig.io/images/slideshow/screenshots/git.png" >
 
+### Tools
+1. [Git Interactive Rebase Tool](https://github.com/MitMaro/git-interactive-rebase-tool)
+<img width="60%" height="60%" src="https://github.com/MitMaro/git-interactive-rebase-tool/raw/master/docs/assets/images/girt-demo.gif?raw=true" >
+
 
 ## MongoDB GUI
 ### [Mingo](https://mingo.io)
