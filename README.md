@@ -24,6 +24,10 @@
 
 <img width="60%" height="60%" src="https://github.com/MonitorControl/MonitorControl/raw/main/.github/screenshot.png" >
 
+## Mouse control
+1. [Mos](https://mos.caldis.me/)
+[Caldis/Mos](https://github.com/Caldis/Mos)
+<img width="60%" height="60%" src="https://github.com/Caldis/Mos/raw/master/docs/resources/image/intro.png?raw=true" >
 
 ## Window control
 1. [Rectangle](https://rectangleapp.com)
